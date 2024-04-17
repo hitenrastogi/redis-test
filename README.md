@@ -1,7 +1,7 @@
 Prerequisites
-. You should have node and npm installed.
-. You should have docker installed and you should be able to successfuly run the command `docker run --rm -it -p 6379:6379 --name redis-server --network host redis`
-. You should have API testing tool e.g POSTMAN installed
+1. You should have node and npm installed.
+2. You should have docker installed and you should be able to successfuly run the command `docker run --rm -it -p 6379:6379 --name redis-server --network host redis`
+3. You should have API testing tool e.g POSTMAN installed
 
 Steps to run the project
 
